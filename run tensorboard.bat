@@ -1,0 +1,1 @@
+tensorboard --logdir logs --host localhost --port 8888 --samples_per_plugin=scalars=500,images=20

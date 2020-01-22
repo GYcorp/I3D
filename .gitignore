@@ -1,0 +1,13 @@
+## tensorflow ckpt ##
+
+*.data*
+
+## tensorflow tfrecord ##
+
+*.tfrecord
+
+## media ##
+
+*.mp4
+*.jpg
+
